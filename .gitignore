@@ -1,2 +1,7 @@
-/TreeTraversal/target/
-/TreeTraversal/nbproject/
+**/target/
+**/nbproject/
+**/.settings/
+**/.classpath
+**/.project
+/.metadata/
+/.recommenders/
